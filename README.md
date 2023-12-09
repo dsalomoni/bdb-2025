@@ -1,11 +1,11 @@
-# bdb-2023 <!-- omit in toc -->
+# bdb-2024 <!-- omit in toc -->
 
 This repository contains files used in the course "Biomedical Data Bases" (BDB)
-at the University of Bologna, Academic Year 2022-2023, taught by prof. Davide Salomoni.
+at the University of Bologna, Academic Year 2023-2024, taught by prof. Davide Salomoni.
 
 For details, see the course slides.
 
-For more information on the course, see [here](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/366280).
+For more information on the course, see [here](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/366280).
 
 **Table of Contents**
 - [1. Install Docker](#1-install-docker)
